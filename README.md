@@ -2,7 +2,11 @@ Picinorder
 ==========
 
 ### short description:
-picinorder is used to organize pictures
+this tool is used to organize pictures
+
+### usage:
+
+1. change the value of source_path and target_path in main_basic.py and run main_basic.py
 
 ### requirements: 
 1. copying
