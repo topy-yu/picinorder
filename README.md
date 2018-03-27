@@ -48,9 +48,9 @@ this tool is used to organize pictures
 	- [ ] A log file will be generated, named by its running date. 
 
 	- [ ] All files under source path should be copied to somewhere under target path (keep the same folder hierarchy if not picture), unless there are a same copy already exists. If it can't be done, the user should be notified. 
-	- "mp4" will be treated as video, and copied to target/video
-	- "git" will be treated as git, and copied to target/git
-	- others will be copied to target/other
+		- "mp4" will be treated as video, and copied to target/video
+		- "git" will be treated as git, and copied to target/git
+		- others will be copied to target/other
 
 	- [ ] If source path and target path should not include each other. Prevent running in such case. 
 
